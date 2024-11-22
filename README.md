@@ -61,11 +61,25 @@ elemento está compuesto de: el título de un libro y un perrito o un robot.
 
 
 
+# Parte 2 
+Debe tener un botón que guarde en firebase: 
+El nombre de libro y  la url del perrito o la url del robot.
+
+# Services
+
+## data.service.ts
+![{0F56D0ED-685B-4712-A2CA-69992FCFF890}](https://github.com/user-attachments/assets/88fabc84-e8d2-4860-9e42-43259803d7d9)
+
+##firebase.service.ts
+![{95B3B731-B97D-4BAC-B009-02BFE183E2E3}](https://github.com/user-attachments/assets/779b9199-df7f-4e4a-9bb9-667ca4980084)
 
 
+![{F0A21DA8-7AD7-489B-9A84-E52E063DC7D2}](https://github.com/user-attachments/assets/52e001f0-cac8-48c5-a6f8-b6c1361bac61)
+![{04CD944E-FBDA-44F6-BBE8-A30E5EC0C466}](https://github.com/user-attachments/assets/3dd1cabe-3d70-4974-a803-acac5f807656)
+![{B635CB44-79C3-44F1-A6D6-23D8430C29ED}](https://github.com/user-attachments/assets/5b0ac852-ec4e-41b3-824e-f2d4391c2297)
 
-
-
+# Parte 3 
+Creación de apk, con ícono y splash screen (debe tener su nombre o su foto). 
 
 
 
